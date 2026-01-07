@@ -14,3 +14,6 @@ HTML、CSS、JavaScript、jQuery
 - 會員註冊頁：表單填寫、欄位驗證
 - 產品購買頁：具備加入購物車、數量調整、刪除、結帳金額加總等功能
 - 種植教學頁：提供教學影片，不只是購物，也能學習種植技巧
+
+## GitHub Pages：
+https://peterketw.github.io/Peter-s-Garden/Home.html
